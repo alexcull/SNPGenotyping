@@ -1,4 +1,4 @@
-Development and validation of SNP genotyping panel for the
+Development and validation of a SNP genotyping panel for the
 differentiation of Cannabis sativa chemovars
 ================
 
