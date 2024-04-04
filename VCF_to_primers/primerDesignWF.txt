@@ -1,0 +1,17 @@
+primer design WF
+1 - use bedtools getfasta to create fasta that includes +/- 50 bp from target SNP
+2 - create .txt or .fasta file with those sequences, including [N/N] for ref/alt
+3 - submit that fasta file to rhAMP tool https://www.idtdna.com/site/order/designtool/index/GENOTYPING_PREDESIGN
+Format :
+
+>SNP1
+TTATCGCTTATAAAATAGACTCATTTTCGTTGGCTAAAAGCGAAGTCAA[T/A]ATTTTGGTGCTTTCATTGAGAGAAGGATCACAGATCGCTCTTTATTCGAC
+
+Blast parameters
+Blast primers against cs10 on NCBI (https://www.ncbi.nlm.nih.gov/assembly/GCF_900626175.2/#/st) to check for specificity
+            BLAST parameters :
+                Use custom forward and reverse primer provided by IDT design tool 
+                Database = Refseq representative genome (using this excludes all assemblies except cs10)
+                Organism : Cannabis sativa L. (taxid:3483)
+                Primer must have at least 2 total mismatches to unintended targets, including at least 2 mismatches within 7 the last bps at the 3' end.
+                Ignore targets that have 4 or more mismatches to the primer.
