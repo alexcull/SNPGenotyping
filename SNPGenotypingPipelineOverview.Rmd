@@ -22,3 +22,9 @@ Li, H., Handsaker, B., Wysoker, A., Fennell, T., Ruan, J., Homer, N., Marth, G.,
 McKinney, W., 2010. Data Structures for Statistical Computing in Python. Presented at the Python in Science Conference, Austin, Texas, pp. 56–61. https://doi.org/10.25080/Majora-92bf1922-00a  
 
 Quinlan, A.R., Hall, I.M., 2010. BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics 26, 841–842. https://doi.org/10.1093/bioinformatics/btq033  
+
+
+```{md release, include=FALSE}
+[![DOI](https://zenodo.org/badge/779735109.svg)](https://zenodo.org/doi/10.5281/zenodo.10933655)
+```
+
