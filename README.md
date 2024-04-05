@@ -1,4 +1,4 @@
-Development and validation of SNP genotyping panel for the
+Development and validation of a SNP genotyping panel for the
 differentiation of Cannabis sativa chemovars
 ================
 
@@ -13,6 +13,7 @@ genetics using PCR-based assays. We suggest that those seeking greater
 detail consult the associate article, *Development and validation of SNP
 genotyping panel for the differentiation of Cannabis sativa chemovars*,
 available [here](link).
+
 
 ## Bibliography
 
