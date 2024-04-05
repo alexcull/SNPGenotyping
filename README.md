@@ -14,6 +14,7 @@ detail consult the associate article, *Development and validation of SNP
 genotyping panel for the differentiation of Cannabis sativa chemovars*,
 available [here](link).
 
+
 ## Bibliography
 
 Danecek, P., Auton, A., Abecasis, G., Albers, C.A., Banks, E., DePristo,
